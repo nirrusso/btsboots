@@ -1,0 +1,13 @@
+/* Reset das configurações do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nosifer', serif;
+    text-rendering: optimizeLegibility;
+}
+
+/*barra de navegação*/
+.bg-cor-que-eu-quero {
+    background: rgb(85, 73, 148)
+}
