@@ -11,3 +11,22 @@
 .bg-cor-que-eu-quero {
     background: rgb(85, 73, 148)
 }
+
+.quadrado {
+    margin-top: 8em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 30em;
+    height: 30em;
+}
+
+.celula {
+    width: 9em;
+    height: 9em;
+    box-shadow: .25em .25em .25em solid rgb(85, 73, 148);
+}
+
+.btn-purpura {
+    background: rgb(168, 87, 186);
+}
